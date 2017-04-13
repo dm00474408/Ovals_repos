@@ -7,6 +7,7 @@ public class Git_class {
 		
 		System.out.println("Deepak");
 		System.out.println("Ravi");
+		System.out.println("Deepak1");
 	}
 
 }
