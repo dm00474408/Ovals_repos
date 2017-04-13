@@ -10,6 +10,7 @@ public class Git_class {
 		System.out.println("Deepak1");
 		System.out.println("akshata");
 		System.out.println("Ekta");
+		System.out.println("Deepak2");
 	}
 
 }
